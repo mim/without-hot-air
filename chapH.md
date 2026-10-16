@@ -10,7 +10,7 @@ title: "H Stuff II"
 
 <span class="figurenumber">Figure H.1.</span> Continuous casting of steel strands at Korea Iron and Steel Company.
 
-Dieter Helm and his colleagues estimated the footprint of each pound’s worth of imports from country X using the average carbon intensity of country X’s economy (that is, the ratio of their carbon emissions to their gross domestic product). They concluded that the embodied carbon in imports to Britain (which should arguably be added to Britain’s official carbon footprint of 11 tons CO<sub>2</sub>e per year per person) is roughly 16 tons CO<sub>2</sub>e per year per person. A subsequent, more detailed study commissioned by DEFRA estimated that the embodied carbon in imports is smaller, but still very significant: about 6.2 tons CO<sub>2</sub>e per year per person. [<span class="darkred">[1]</span>](#chHn01) In energy terms, 6 tons CO<sub>2</sub>e per year is something like 60 kWh/d.
+Dieter Helm and his colleagues estimated the footprint of each pound’s worth of imports from country X using the average carbon intensity of country X’s economy (that is, the ratio of their carbon emissions to their gross domestic product). They concluded that the embodied carbon in imports to Britain (which should arguably be added to Britain’s official carbon footprint of 11 tons CO<sub>2</sub>e per year per person) is roughly 16 tons CO<sub>2</sub>e per year per person. A subsequent, more detailed study commissioned by DEFRA estimated that the embodied carbon in imports is smaller, but still very significant: about 6.2 tons CO<sub>2</sub>e per year per person. [<span class="darkred">[1]</span>](#chHn01) In energy terms, 6 tons CO<sub>2</sub>e per year is something like 60 kWh/d. <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">The modern official counterpart is Defra's consumption-based account: 699 MtCO₂e in 2023, or 10.2 tonnes per person, against territorial emissions of 384 MtCO₂e (5.6 t/p) — implying roughly 4.6 t/p of import-embedded emissions, below the 2007/08-era estimates quoted here.</ins> [^u1]
 
 Here, let’s see if we can reproduce these conclusions in a different way, using the weights of the imports.
 
@@ -30,9 +30,9 @@ We can thus roughly estimate the energy footprint of our imports simply from the
 
 For this calculation I’ll take from the right-hand column in figure H.2 the iron and steel products, the dry bulk products, the containerized freight and the "other freight," which total 98million tons per year. I’m leaving the vehicles to one side for a moment. I subtract from this an estimated 25 million tons of food which is presumably lurking in the "other freight" category (34 million tons of food were imported in 2006), leaving 73 million tons.
 
-Converting 73 million tons to energy using the exchange rate suggested above, and sharing between 60 million people, we estimate that those imports have an embodied energy of 33 kWh/d per person.
+Converting 73 million tons to energy using the exchange rate suggested above, and sharing between 60 million people, we estimate that those imports have an embodied energy of 33 kWh/d per person. <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">The 2006 category split in figure H.2 can't be refreshed like-for-like — DfT now reports total UK port traffic of 420.6 million tonnes in 2023 (151.9 Mt unitised, 84.4 Mt dry bulk, 15.0 Mt general cargo), down from the era of figure H.2 — so the Defra consumption accounts above are the better modern counterpart to this estimate.</ins> [^u2]
 
-For the cars, we can hand-wave a little less, because we know a little more: the number of imported vehicles in 2006 was 2.4 million. If we take the embodied energy per car to be 76 000 kWh (a number we picked up in [chapter 15](../Text/chap15.xhtml#car)) then these imported cars have an embodied energy of 8 kWh/d per person.
+For the cars, we can hand-wave a little less, because we know a little more: the number of imported vehicles in 2006 was 2.4 million. If we take the embodied energy per car to be 76 000 kWh (a number we picked up in [chapter 15](../Text/chap15.xhtml#car)) then these imported cars have an embodied energy of 8 kWh/d per person. <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">The car market has changed shape since: SMMT recorded 1.95 million new UK car registrations in 2024, of which 19.6% were battery-electric — and chapter 15's updates note the 76,000 kWh per-car figure is now regarded as a high outlier.</ins> [^u3]
 
 ![](/assets/figure506.gif)
 
@@ -252,7 +252,7 @@ stainless steel
 
 14.3
 
-<span class="figurenumber">Table H.4.</span> Embodied energy of building materials (assuming virgin rather than recycled product is used). (Dimension stone is natural stone or rock that has been selected and trimmed to specific sizes or shapes.) Sources: [[<span class="websitetitle">3kmcks</span>](http://tinyurl.com/3kmcks)], Lawson (1996).
+<span class="figurenumber">Table H.4.</span> Embodied energy of building materials (assuming virgin rather than recycled product is used). (Dimension stone is natural stone or rock that has been selected and trimmed to specific sizes or shapes.) Sources: [[<span class="websitetitle">3kmcks</span>](http://tinyurl.com/3kmcks)], Lawson (1996). <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">MacKay's sources here date from the 1990s; the free ICE database (Hammond &amp; Jones — the same authors this book cites elsewhere) gives updated values for most of these materials: cement 4.6 MJ/kg (was 5.6), glass 15 (was 12.7), aluminium 155 (was 170), galvanised steel 39 (was 38 — essentially unchanged), stainless steel 56.7 (was 51.5), clay brick 3 (was 2.5), plasterboard 6.75 (was 4.4), fibre cement 10.9 (was 4.8), hardboard 16 (was 24.2), particleboard 9.5 (was 8.0), MDF 11 (was 11.3), plywood 15 (was 10.4). The orders of magnitude all survive.</ins> [^u4]
 
 Embodied energy (kWh/m<sup>2</sup>)
 
@@ -383,7 +383,19 @@ If we share 42 000 kWh over 100 years, and double it to estimate the gross energ
 
 ![](/assets/figure308.gif)
 
-<span class="figurenumber">Figure H.7.</span> Millau Viaduct in France, the highest bridge in the world. Steel and concrete, 2.5 km long and 353 m high.
+<span class="figurenumber">Figure H.7.</span> Millau Viaduct in France, the highest bridge in the world. Steel and concrete, 2.5 km long and 353 m high. <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">The Millau has since lost the title: the world's highest bridge is now the Huajiang Canyon Bridge in Guizhou, China — 625 m above the Beipan River, opened 28 September 2025.</ins> [^u5]
+
+## <span style="color:#a3540f;font-weight:600;">Updates, 2026</span>
+
+[^u1]: <span style="color:#a3540f;font-weight:600;">*Consumption-based footprint, official now.*</span> Defra's UK Carbon Footprint (consumption-based, all GHGs): 699 MtCO₂e in 2023, i.e. 10.2 tonnes per person — down from a 2007 peak of 984 Mt — versus territorial emissions of 384 MtCO₂e (5.6 t/p). The import-embedded share is thus roughly 315 MtCO₂e, about 4.6 t/p, below both the Helm et al. 16 t/p and the DEFRA 6.2 t/p estimates MacKay quotes. Source: ONS, *Measuring UK greenhouse gas emissions* (Defra/ONS methodology). https://WWW.ONS.GOV.UK/economy/environmentalaccounts/methodologies/measuringukgreenhousegasemissions/pdf
+
+[^u2]: <span style="color:#a3540f;font-weight:600;">*UK port traffic, 2023.*</span> DfT's UK Port Freight Traffic Forecasts (2024–2050): total UK port traffic 420.6 million tonnes in 2023 — 169.3 Mt liquid bulk, 151.9 Mt unitised, 84.4 Mt dry bulk, 15.0 Mt general cargo. Source: DfT. https://assets.publishing.service.gov.uk/media/686e47642557debd867cbe6e/dft-uk-port-freight-traffic-2024-forecasts.pdf
+
+[^u3]: <span style="color:#a3540f;font-weight:600;">*UK car market, 2024.*</span> SMMT: 1,952,778 new car registrations in the UK in 2024, with battery-electric vehicles at 19.6% of the market; 2025 then breached two million. Source: SMMT, 2025/2026. https://www.smmt.co.uk/uk-new-car-market-breaches-two-million-as-almost-one-in-four-buyers-go-electric/
+
+[^u4]: <span style="color:#a3540f;font-weight:600;">*Building-materials embodied energy, updated.*</span> Hammond &amp; Jones, *Inventory of Carbon and Energy (ICE)* v2.0 (2011) — the free embodied-energy database from the same authors the book cites — versus MacKay's Lawson (1996) values (MJ/kg): cement 4.6 (was 5.6), glass 15 (was 12.7), aluminium general 155 (was 170), galvanised sheet primary 39 (was 38), stainless steel 56.7 (was 51.5), clay brick general 3 (was 2.5), plasterboard 6.75 (was 4.4), fibre cement 10.9 (was 4.8), hardboard 16 (was 24.2), particleboard 9.5 (was 8.0), MDF 11 (was 11.3), plywood 15 (was 10.4), glue-laminated timber 12 (was 11). Source: Hammond &amp; Jones, *ICE* v2.0, University of Bath / Circular Ecology. https://circularecology.com/embodied-carbon-footprint-database.html
+
+[^u5]: <span style="color:#a3540f;font-weight:600;">*World's highest bridge.*</span> The Huajiang Canyon Bridge (Guizhou, China), a steel-truss suspension bridge with its deck 625 m above the Beipan River, was certified by Guinness World Records as the world's highest bridge and opened to traffic on 28 September 2025. Source: https://en.wikipedia.org/wiki/Huajiang_Canyon_Bridge
 
 ## Notes and further reading
 
