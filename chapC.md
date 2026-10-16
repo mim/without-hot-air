@@ -387,7 +387,7 @@ The range of the bird is the intrinsic range of the fuel, 4000 km, times a facto
 
 This figure is again close to the true answer: the nonstop flight record for a 747 (set on March 23–24, 1989) was a distance of 16 560 km.
 
-And the claim that the range is independent of bird size is supported by the observation that birds of all sizes, from great geese down to dainty swallows and arctic tern migrate intercontinental distances. The longest recorded non-stop flight by a bird was a distance of 11 000 km, by a bartailed godwit. [<span class="darkred">[3]</span>](#chCn03)
+And the claim that the range is independent of bird size is supported by the observation that birds of all sizes, from great geese down to dainty swallows and arctic tern migrate intercontinental distances. The longest recorded non-stop flight by a bird was a distance of 11 000 km, by a bartailed godwit. [<span class="darkred">[3]</span>](#chCn03) <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">That record has fallen twice since: in October 2022 a juvenile bar-tailed godwit (flagged B6) flew 13,560 km non-stop from Alaska to Tasmania in 11 days and one hour — the longest non-stop flight ever recorded for any bird. [^u5]</ins>
 
 How far did Steve Fossett go in the specially-designed Scaled Composites Model 311 Virgin Atlantic GlobalFlyer? 41 467 km. [[<span class="websitetitle">33ptcg</span>](http://tinyurl.com/33ptcg)] An unusual plane: 83% of its take-off weight was fuel; the flight made careful use of the jet-stream to boost its distance. Fragile, the plane had several failures along the way.
 
@@ -395,11 +395,11 @@ One interesting point brought out by this cartoon: if we ask "what’s the optim
 
 ### How would a hydrogen plane perform?
 
-We’ve already argued that the efficiency of flight, in terms of energy per ton-km, is just a simple dimensionless number times *g*. Changing the fuel isn’t going to change this fundamental argument. Hydrogen-powered planes are worth discussing if we’re hoping to reduce climate-changing emissions. They might also have better range. But don’t expect them to be radically more energy-efficient.
+We’ve already argued that the efficiency of flight, in terms of energy per ton-km, is just a simple dimensionless number times *g*. Changing the fuel isn’t going to change this fundamental argument. Hydrogen-powered planes are worth discussing if we’re hoping to reduce climate-changing emissions. They might also have better range. But don’t expect them to be radically more energy-efficient. <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">Since 2008 the "new fuels" Tony Blair hoped for have arrived as mandates: the UK's Sustainable Aviation Fuel Mandate requires 2% SAF from 2025, rising to 10% in 2030 and 22% in 2040; the EU's ReFuelEU Aviation regulation requires 2% SAF from 2025, rising to 6% in 2030 and 70% in 2050, with synthetic-fuel sub-targets. [^u1][^u2]</ins><ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">Hydrogen flight has also moved from theory to test flights: in January 2023 ZeroAvia flew a 19-seat Dornier 228 fitted with a hydrogen-electric powertrain — but no commercial hydrogen airliner is in service, and the energy-per-ton-km arithmetic above is unchanged. [^u3]</ins>
 
 ### Possible areas for improvement of plane efficiency
 
-Formation flying in the style of geese could give a 10% improvement in fuel efficiency (because the lift-to-drag ratio of the formation is higher than that of a single aircraft), but this trick relies, of course, on the geese wanting to migrate to the same destination at the same time.
+Formation flying in the style of geese could give a 10% improvement in fuel efficiency (because the lift-to-drag ratio of the formation is higher than that of a single aircraft), but this trick relies, of course, on the geese wanting to migrate to the same destination at the same time. <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">Airbus has now flight-tested the idea: in its fello'fly programme, two A350s flew in formation from Toulouse to Montreal in November 2021, demonstrating more than 5% fuel saving on the follower aircraft in regular air traffic. [^u4]</ins>
 
 Optimizing the hop lengths: [<span class="darkred">[4]</span>](#chCn04) long-range planes (designed for a range of say 15 000 km) are not quite as fuel-efficient as shorter-range planes, because they have to carry extra fuel, which makes less space for cargo and passengers. It would be more energy-efficient to fly shorter hops in shorter-range planes. The sweet spot is when the hops are about 5000 km long, so typical long-distance journeys would have one or two refuelling stops (Green, 2006). Multi-stage long-distance flying might be about 15% more fuel-efficient; but of course it would introduce other costs.
 
@@ -421,7 +421,7 @@ The Electra, a wood-and-fabric single-seater, flew for 48 minutes for 50 km arou
 
 0.4 kWh/ton-km,
 
-which exactly matches our cartoon. This electrical plane is not a lower-energy plane than a normal fossil-sucker.
+which exactly matches our cartoon. This electrical plane is not a lower-energy plane than a normal fossil-sucker. <ins style="color:#a3540f;background:#fbeee0;padding:0 3px;border-radius:2px;font-weight:600;">The physics verdict has held up: battery energy density has roughly doubled since the Electra's 130 Wh/kg cells, and several battery-electric demonstrators have since flown — but none beats the 0.4 kWh per ton-km cartoon, which is set by airframe and engine efficiency, not by the fuel. Electric aviation's promise is zero carbon, not less energy. [^u6]</ins>
 
 Of course, this doesn’t mean that electric planes are not interesting. If one could replace traditional planes by alternatives with equal energy consumption but no carbon emissions, that would certainly be a useful technology. And, as a person-transporter, the Electra delivers a respectable <span class="mauve">11 kWh per 100 p-km</span>, similar to the electric car in our transport diagram in [chapter 20](../Text/chap20.xhtml#fig20.23). But in this book the bottom line is always: "where is the energy to come from?"
 
@@ -511,6 +511,22 @@ The Soviet Union developed the ekranoplan as a military transport vehicle and mi
 #### The plane was going anyway, so my flying was energy-neutral.
 
 This is false for two reasons. First, your extra weight on the plane requires extra energy to be consumed in keeping you up. Second, airlines respond to demand by flying more planes.
+
+## <span style="color:#a3540f;font-weight:600;">Updates, 2026</span>
+
+On the book's verdict that there is "no prospect of significant improvements in plane efficiency": the long-run data are consistent with it — new-aircraft fuel burn has improved at only about 1.1% per year since the 1960s. See chapter 5's updates for detail.
+
+[^u1]: <span style="color:#a3540f;font-weight:600;">*The UK SAF mandate.*</span> The SAF Mandate took effect 1 January 2025: 2% of UK jet fuel in 2025, rising linearly to 10% in 2030 and 22% in 2040; projected to save up to 6.3 MtCO₂e per year by 2040. Source: Department for Transport, GOV.UK. https://www.gov.uk/government/collections/sustainable-aviation-fuel-saf-mandate
+
+[^u2]: <span style="color:#a3540f;font-weight:600;">*ReFuelEU Aviation.*</span> Regulation (EU) 2023/2405: fuel suppliers at EU airports must blend minimum shares of SAF — 2% in 2025, 6% in 2030, 20% in 2035, 34% in 2040, 42% in 2045, 70% in 2050 — with a synthetic-fuels sub-mandate from 2030 (1.2%, rising to 35% in 2050). Source: EASA. https://www.easa.europa.eu/en/light/topics/fit-55-and-refueleu-aviation
+
+[^u3]: <span style="color:#a3540f;font-weight:600;">*Hydrogen-electric test flight.*</span> ZeroAvia, 19 January 2023: maiden flight of a 19-seat Dornier 228 testbed retrofitted with a hydrogen-electric powertrain, at Cotswold Airport, UK — a 10-minute circuit, the largest hydrogen-electric aircraft flown to date. https://zeroavia.com/do228-first-flight/
+
+[^u4]: <span style="color:#a3540f;font-weight:600;">*Formation flight, demonstrated.*</span> 9 November 2021: two Airbus A350 test aircraft flew in formation from Toulouse to Montreal (3 km apart) in regulated airspace, saving over 6 tonnes of CO₂ — confirming the potential for more than 5% fuel saving on long-haul flights for the follower aircraft. Source: EUROCONTROL. https://www.eurocontrol.int/news/eurocontrol-proud-be-part-team-making-airbus-fellofly-flights-happen
+
+[^u5]: <span style="color:#a3540f;font-weight:600;">*A new bird record.*</span> Juvenile bar-tailed godwit "B6", satellite-tagged in Alaska, flew ~13,560 km non-stop to Ansons Bay, Tasmania, 13–24 October 2022 (11 days, 1 hour) — the longest non-stop flight recorded for any bird, breaking the 2007 E7 record of ~11,500 km. Source: BirdLife Australia, October 2022. https://birdlife.org.au/news/bar-tailed-godwit-breaks-record/
+
+[^u6]: <span style="color:#a3540f;font-weight:600;">*Batteries since the Electra.*</span> DOE's Battery500 consortium took lithium-metal pouch cells from 300 Wh/kg to 350 Wh/kg with 350+ cycles, and Argonne's manganese-rich cathode programme projects about 270 Wh/kg at cell level — roughly double (or more) the 130 Wh/kg assumed for the 2007 Electra — yet no battery-electric demonstrator beats the 0.4 kWh per ton-km cartoon. Sources: DOE, "Battery500: Progress Update", https://www.energy.gov/cmei/articles/battery500-progress-update ; Argonne National Laboratory (via Newswise), https://www.newswise.com/articles/argonne-s-manganese-rich-battery-legacy-and-the-next-generation-of-electric-vehicle-batteries
 
 ## Notes and further reading
 
