@@ -237,9 +237,27 @@ Geothermal
 
 ## <span style="color:#a3540f;font-weight:600;">Updates, 2026</span>
 
+*Re-deriving the green stack for the USA (October 2026).* The companion UK note re-derived *actual* supply — indigenous production plus net trade, per person per day, with nuclear, wind, solar and hydro counted as electricity generated (MacKay's own convention — see [^1]). On that boundary the United States supplies itself **≈210 kWh/d/p** (340 million people, 2024) — 2.8 times Britain's ≈76. The shape is the story: indigenous oil and gas alone (≈181) are more than twice the UK's entire supply.
+
+The shale revolution flipped America's trade position. In 2008 the US imported 26% of its energy (net imports 25.9 quads); in 2024 it was a net exporter of a record 9.3 quads — exports hit 30.9 quads, about 30% of everything produced [^u3]. Natural gas is 38% of production (the largest source since 2011), crude oil a record 13.2 million barrels a day. Coal's exit is slower than Britain's: still 10% of production — 512 million short tons, the lowest since 1964, but a long way from zero [^u3].
+
+What grew: wind and solar together now generate 756 TWh (6.1 kWh/d/p), nearly twice Britain's wind-plus-solar; nuclear held steady at 782 TWh (6.3); biomass — mostly biofuels, a record 1.4 million barrels a day — is the largest renewable at 12.0 [^u4]. The honest summary: America is an energy superpower that mostly burns what it digs — fossil fuels still supply roughly nine-tenths of the total, only now the country sells the surplus abroad [^u5].
+
+![](/assets/figure125-production-us-2026.png)
+
+<span class="figurenumber">Figure 18.1 (2026, US supply side).</span> Primary energy supply per person per day: United States (≈210 kWh/d/p) beside the UK re-derivation (≈76 kWh/d/p), same boundary and linear scale. Indigenous production in green, net trade in grey (negative for the US — net exports). MacKay's original Figure 18.1 above is untouched.
+
+*Arithmetic (primary supply = indigenous production + net trade; 340.1M people; 1 quad ≈ 2.36 kWh/d/p):* 2024 — crude oil 13.2 Mb/d × 365 × 5.8 MMBtu/bbl ≈ 27.9, NGPL ≈ 9.3 (9% of production), dry gas ≈ 39.3 (38%), coal ≈ 10.4 (512M short tons), nuclear 782 TWh, wind 453 TWh, solar 303 TWh, hydro 242 TWh, biomass ≈ 5.1, geothermal ≈ 0.06 (all quads, EIA MER); each × 2.36 ≈ oil 88 (crude 66 + NGL 22), gas 93, coal 25, nuclear 6.3, wind 3.7, solar 2.4, hydro 2.0, biomass 12.0, geothermal 0.1; net trade = exports 30.9 − imports 21.7 = −9.3 ≈ −22. Total ≈ 210. EIA's own convention counts nuclear at its thermal rate (8.2 quads), which would read ≈222 — disclosed here, not used.
+
 [^u1]: <span style="color:#a3540f;font-weight:600;">*UK and European per-capita energy consumption.*</span> UK: roughly 68 kWh/d per person in 2023 (2.13 tonnes of oil equivalent per capita). Europe: roughly 90 kWh/d per person on recent EU-wide estimates. Sources: DESNZ, *Energy Consumption in the UK 2024*; Eurostat / Enerdata.
 
 [^u2]: <span style="color:#a3540f;font-weight:600;">*UK low-carbon electricity share.*</span> Renewables generated 50.8% of UK electricity in 2024 (wind 29.5%, solar 5.2%, plus hydro and biomass), the first year they exceeded half; nuclear added a further 14.25%. Source: National Grid ESO / Carbon Brief analysis of 2024 generation data.
+
+[^u3]: <span style="color:#a3540f;font-weight:600;">*Record 2024 US production.*</span> EIA, *Monthly Energy Review*: 2024 production exceeded 103 quads (+1% vs 2023). Shares — natural gas 38% (≈38 Tcf dry gas, largest source since 2011), crude oil 27% (13.2 Mb/d, record), coal 10% (512M short tons, lowest since 1964; coal was the largest source 1984–2010), NGPL 9% (record). EIA Today in Energy, 9 Jun 2025. https://www.eia.gov/todayinenergy/detail.php?id=65414
+
+[^u4]: <span style="color:#a3540f;font-weight:600;">*2024 US electricity by source.*</span> Nuclear 782 TWh (17.8%), wind 453 TWh (record), solar 303 TWh incl. small-scale (record), hydro 242 TWh, biomass-electric 47 TWh, geothermal ~17 TWh. Sources: EIA, *Electric Power Annual 2024*; EIA data via analysis. https://www.eia.gov/electricity/Annual/ ; https://wolfstreet.com/2025/02/27/demand-for-electricity-takes-off-us-power-generation-by-source-in-2024-natural-gas-coal-nuclear-wind-hydro-solar-geothermal-biomass-petroleum/
+
+[^u5]: <span style="color:#a3540f;font-weight:600;">*The shale flip in trade.*</span> 2024: exports 30.9 quads (record — petroleum products 11.5, crude 8.6, gas 7.8), imports 21.7, net exports 9.3 (record); ~30% of production exported. 2008: production 73.8, imports 32.8, exports 6.9 → net imports 25.9 quads (26% of supply). Sources: EIA, *Monthly Energy Review*; EIA AEO 2011 Table A1. https://www.eia.gov/totalenergy/data/monthly/ ; http://www.eia.gov/forecasts/archive/aeo11/er/pdf/tbla1.pdf
 
 ## Notes and further reading
 
