@@ -237,9 +237,27 @@ Geothermal
 
 ## <span style="color:#a3540f;font-weight:600;">Updates, 2026</span>
 
+*Re-deriving the green stack (October 2026).* MacKay's green stack in Figure 18.1 was *potential* production — about 180 kWh/d/p with all economic, social and environmental constraints thrown to the wind. This note re-derives the *actual* supply side instead: primary energy supply = indigenous production + net imports, per person per day, with nuclear, wind, solar and hydro counted as electricity generated (MacKay's own convention — see [^1]). Reconstructed on that boundary, 2008 supply was ≈120 kWh/d/p; the 2024 re-derivation (DUKES 2025) is **≈76 kWh/d/p** — a fall of more than a third, driven mostly by the North Sea running down rather than by deliberate policy.
+
+The big story is what Britain stopped producing. Indigenous oil output fell from ≈78 to 33 mtoe and gas from ≈70 to 30 mtoe — both at record 21st-century lows in 2024, roughly three-quarters below the 1999 peak [^u3]. Coal went from 5.7 kWh/d/p to effectively zero: the last coal-fired power station, Ratcliffe-on-Soar, closed on 30 September 2024, and coal demand fell 52% in a single year [^u4]. The gap was filled from abroad: net import dependency rose from 26% to a record 44%, with electricity imports at an all-time high (the Denmark–UK interconnector's first full year) [^u3].
+
+What grew: wind is now the largest indigenous low-carbon source, 0.3 → 3.3 kWh/d/p (29% of UK electricity in 2024); biomass and waste tripled to 6.5, though part of that is imported wood pellets sitting inside the imports lump [^u4]. Nuclear slipped 2.1 → 1.6 as the ageing fleet shrank — 2023 was its lowest output this century [^u5]. The honest summary: Britain's energy supply didn't so much decarbonise as de-produce — fossil fuels still met a record-low-but-stubborn 75% of primary consumption in 2024, only now mostly imported [^u3].
+
+![](/assets/figure125-production-2026.png)
+
+<span class="figurenumber">Figure 18.1 (2026, supply side).</span> Primary energy supply per person per day: 2008 reconstructed (≈120 kWh/d/p) beside 2024 (≈76 kWh/d/p), same boundary and linear scale. Indigenous production in green, net imports in grey. MacKay's original Figure 18.1 above is untouched.
+
+*Arithmetic (primary supply = indigenous production + net imports; 2024: 69.3M people; 2008: 61.4M):* 2024 — oil 33.3, gas 29.6, coal 0.1, nuclear 40.6 TWh ÷ 11.63, wind 83.3 TWh ÷ 11.63, solar ≈14 TWh ÷ 11.63, hydro ≈5.5 TWh ÷ 11.63, biomass 14.2, net imports 138.9 − 64.1 = 74.8 (all mtoe, DUKES 2025); each × 11,630 ÷ 69.3M ÷ 365 ≈ oil 15.3, gas 13.6, coal 0.0, nuclear 1.6, wind 3.3, solar 0.6, hydro 0.2, biomass 6.5, imports 34.4 ≈ 76. *2008 reconstruction:* oil 71.4 Mt × 1.09 ≈ 78, gas ≈ 70, coal ≈ 11, nuclear 47.7 TWh, wind ≈7 TWh, hydro ≈5 TWh, biomass ≈4.5, net imports 62.5 (DUKES Table 1.1.3) ≈ 120 — indigenous total ≈177 mtoe, matching DUKES' 177.0; the fuel split is reconstructed from press-notice deltas (±~2%).
+
 [^u1]: <span style="color:#a3540f;font-weight:600;">*UK and European per-capita energy consumption.*</span> UK: roughly 68 kWh/d per person in 2023 (2.13 tonnes of oil equivalent per capita). Europe: roughly 90 kWh/d per person on recent EU-wide estimates. Sources: DESNZ, *Energy Consumption in the UK 2024*; Eurostat / Enerdata.
 
 [^u2]: <span style="color:#a3540f;font-weight:600;">*UK low-carbon electricity share.*</span> Renewables generated 50.8% of UK electricity in 2024 (wind 29.5%, solar 5.2%, plus hydro and biomass), the first year they exceeded half; nuclear added a further 14.25%. Source: National Grid ESO / Carbon Brief analysis of 2024 generation data.
+
+[^u3]: <span style="color:#a3540f;font-weight:600;">*DUKES 2025 — the supply picture.*</span> DESNZ, *Digest of UK Energy Statistics 2025* (2024 data): indigenous production 94.8 mtoe (record low — oil 33.3, gas 29.6, coal 0.1, primary electricity 17.7, bioenergy & waste 14.2); net imports 74.8 mtoe (imports 138.9, exports a record-low 64.1); primary consumption 164.4 mtoe; fossil share of primary consumption a record low 75.2%, low-carbon a record high 21.7%; import dependency 43.8% (2023: 40.3%). https://www.gov.uk/government/statistics/digest-of-uk-energy-statistics-dukes-2025
+
+[^u4]: <span style="color:#a3540f;font-weight:600;">*Coal's end and wind's rise.*</span> Ratcliffe-on-Soar closed 30 September 2024 — the UK's last coal-fired power station; coal demand fell 52% to 2.1 Mt in 2024 and coal-fired generation was 2.0 TWh (0.7%). Wind generated 83.3 TWh (29.2% of electricity, a record), solar ≈5%, biomass 14.1% of generation. Sources: DUKES 2025 chs 1 and 5; DESNZ via SolarPowerPortal. https://www.solarpowerportal.co.uk/energy-policy/desnz-over-half-2024-uk-electricity-renewable
+
+[^u5]: <span style="color:#a3540f;font-weight:600;">*Nuclear and the 2008 baseline.*</span> Nuclear 2024: 40.6 TWh (14.2% of electricity); 2023 was its lowest output this century. 2008 baseline: indigenous production 177.0 mtoe (DUKES 2010 press notice: 2009 was 166.9 mtoe, 5.7% lower than 2008); net imports 62.5 mtoe, dependency 26.3% (DUKES 2013 Long Term Trends, Table 1.1.3); nuclear 47.7 TWh (13% of electricity). The 2008 indigenous fuel split is reconstructed from press-notice deltas (±~2%). https://assets.publishing.service.gov.uk/media/5a7b9f9eed915d1311060741/DUKES_2013_Long_Term_Trends.pdf
 
 ## Notes and further reading
 
