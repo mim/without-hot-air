@@ -237,9 +237,31 @@ Geothermal
 
 ## <span style="color:#a3540f;font-weight:600;">Updates, 2026</span>
 
+*Re-deriving the red stack (October 2026).* The notes above annotate this chapter; this note re-derives its central figure instead. MacKay's 195 kWh/d red stack describes a "typical affluent person". Re-derived below is the **national average**, the basis on which official statistics are published — so the correct 2008 comparator is his stated national average of 125 kWh/d/p [^1], not the 195. Reconstructed on the book's own chunk boundaries, the 2008 national stack is ≈115 kWh/d/p; the 2024 re-derivation (ECUK 2025, DfT, DEFRA, MOD) is **≈96 kWh/d/p** — a genuine fall of roughly a fifth, driven by efficiency rather than by people living smaller lives.
+
+The most dramatic mover is light: domestic lighting collapsed from 0.66 to 0.16 kWh/d/p on the national average as LEDs took over [^u3] (MacKay's affluent 4 was already ~6× the 2008 average). Cars moved for real, not as an accounting change: fleet-average fuel use absorbs mpg gains and early EV uptake, 12 → 10 nationally, and ≈30 for his affluent 50-km-a-day driver, down from 40 [^u3]. Defence turns out never to have been a measurement at all: his 4 was a budget-share guess, while MOD's published estate and equipment-fuel data give 0.40 kWh/d/p for 2023–24 [^u7] — re-running his own method today yields only 1.3–1.6.
+
+What barely moved: stuff is still the largest chunk, 48 → ≈43, scaled from DEFRA's consumption-based carbon footprint with an explicit carbon≠energy caveat [^u6]; heating is structurally almost unchanged (heat pumps remain marginal — 2023 was a price-depressed record-low year for domestic gas) [^u3]. The softest estimates are food (≈13.4, whole diet scaled by the meat-purchases ratio) [^u4] and gadgets (≈0.8, a 2014 consumer-electronics share projected onto 2023, since ECUK discontinued appliance sub-type tables) [^u3].
+
+![](/assets/figure125-2026.png)
+
+<span class="figurenumber">Figure 18.1 (2026).</span> The red consumption stack re-derived: 2008 national average reconstructed (≈115 kWh/d/p) beside 2024 (≈96 kWh/d/p), same chunk boundaries and linear scale. MacKay's original Figure 18.1 above is untouched.
+
+*Arithmetic, national average (68.3M people, 2023/24):* car 19.1 Mt × 43.9 GJ/t ÷ 68.3M ÷ 365 ≈ 10; jets 12.34 mtoe × 11,630 ÷ 68.3M ÷ 365 ≈ 5.8; heating 20.94 mtoe domestic gas + heating oil + electric ≈ 11; light 0.338 mtoe × 11,630 ≈ 0.16; gadgets ≈ 0.8 (see note); food 8×848/998 + 2×77/95 + 0.9 + 4.1 ≈ 13.4; stuff 40×371/412 + 6.5 ≈ 43; freight 168 bn t-km × 1.0 kWh/t-km + shipping ≈ 11; defence 9.98 TWh ÷ 68.3M ÷ 365 ≈ 0.40. *2008 reconstruction (61.4M people):* car ≈21 Mt × 44 GJ/t ≈ 12; jets 12.3 Mt × 11,940 ≈ 6.6; heating 27.5 mtoe domestic gas + oil ≈ 16; light 0.66; gadgets ≈ 0.9 (31.7% × 2.84); food 15; stuff 48; freight 12; defence 4 (his figure) ≈ 115 — against his stated 125 (territorial primary energy, a narrower boundary that excludes imports).
+
 [^u1]: <span style="color:#a3540f;font-weight:600;">*UK and European per-capita energy consumption.*</span> UK: roughly 68 kWh/d per person in 2023 (2.13 tonnes of oil equivalent per capita). Europe: roughly 90 kWh/d per person on recent EU-wide estimates. Sources: DESNZ, *Energy Consumption in the UK 2024*; Eurostat / Enerdata.
 
 [^u2]: <span style="color:#a3540f;font-weight:600;">*UK low-carbon electricity share.*</span> Renewables generated 50.8% of UK electricity in 2024 (wind 29.5%, solar 5.2%, plus hydro and biomass), the first year they exceeded half; nuclear added a further 14.25%. Source: National Grid ESO / Carbon Brief analysis of 2024 generation data.
+
+[^u3]: <span style="color:#a3540f;font-weight:600;">*ECUK 2025 — the workhorse.*</span> DESNZ, *Energy Consumption in the UK 2025* (2023/24 data): cars 19.1 Mt road fuel (Table C8); air transport 13.5 mtoe 2024 (ch1); domestic gas 21.8 mtoe 2024 (ch1); end-use Table U3 — lighting 338 ktoe, appliances 5,655 ktoe (2023). https://www.gov.uk/government/statistics/energy-consumption-in-the-uk-2025
+
+[^u4]: <span style="color:#a3540f;font-weight:600;">*Freight and food sources.*</span> DfT road freight statistics 2023 (168 bn tonne-km); DfT port freight annual statistics 2023; DUKES 2024 (jet fuel supplied 2023: 11.1 Mt). DEFRA Family Food FYE 2024 (meat purchases 848 vs 998 g/wk in 2008); Defra British Survey of Fertiliser Practice (all-crops nitrogen 77 vs 95 kg/ha). https://www.gov.uk/government/statistics/road-freight-statistics-2023 ; https://www.gov.uk/government/statistics/family-food-fye-2025
+
+[^u5]: <span style="color:#a3540f;font-weight:600;">*Gadgets estimate.*</span> No current official consumer-electronics split exists — ECUK 2025 discontinued its appliance sub-type tables. The 0.8 projects ECUK (2015)'s 2014 consumer-electronics share (1.8 of 5.685 Mtoe appliances, 31.7%) onto 2023 appliances (5.655 Mtoe). The official all-appliances anchor barely moved: 2.8 → 2.6 kWh/d/p.
+
+[^u6]: <span style="color:#a3540f;font-weight:600;">*Stuff — carbon to energy.*</span> DEFRA, *Carbon footprint for the UK and England to 2023* (MRIO model, Univ. of Leeds): imports-embedded emissions 371 MtCO₂e in 2023 vs ≈412 in 2004 → factor 0.90 applied to MacKay's 40. Carbon≠energy caveat: supply chains decarbonised faster than they de-energised, so 36 is lower-bound-flavoured; plausible range 36–45. https://www.gov.uk/government/statistics/uks-carbon-footprint
+
+[^u7]: <span style="color:#a3540f;font-weight:600;">*Defence measured.*</span> MOD Annual Report and Accounts 2025–26, sustainability table: estate energy 4.61 TWh + equipment fuel 5.37 TWh = 9.98 TWh in 2023–24 → 0.40 kWh/d/p. Excludes nuclear propulsion fuel (unpublished) and procurement-embodied energy — a lower bound on any all-in concept.
 
 ## Notes and further reading
 
